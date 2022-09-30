@@ -4,13 +4,15 @@
  * @Copyright: Technology Studio
 **/
 
+import type {
+  ForkEffect,
+  SagaReturnType,
+} from 'redux-saga/effects'
 import {
   call,
   fork,
   take,
   cancel,
-  ForkEffect,
-  SagaReturnType,
 } from 'redux-saga/effects'
 import type { SagaIterator } from 'redux-saga'
 import type { Task } from '@redux-saga/types'
