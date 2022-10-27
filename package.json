@@ -49,7 +49,7 @@
     "@txo-peer-dep/redux-saga": "^1.0.2",
     "@txo/log": "^2.0.1",
     "@txo/log-console": "^3.0.0",
-    "@txo/service-prop": "^2.2.0",
+    "@txo/service-prop": "^2.2.2",
     "@txo/service-react": "^5.0.5",
     "@types/jest": "^29.2.0",
     "@typescript-eslint/eslint-plugin": "^5.41.0",
