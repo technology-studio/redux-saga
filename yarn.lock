@@ -1275,10 +1275,10 @@
   dependencies:
     "@txo/config-manager" "^3.0.1"
 
-"@txo-peer-dep/redux-saga@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@txo-peer-dep/redux-saga/-/redux-saga-1.0.1.tgz#ed5d24c88f6425e5c08aa45fcd28bcd1215aba0b"
-  integrity sha512-heriZynQKXqiIvMGPMMk3hB9gQ6qHbH/ZX/DBZIZtbed9qfOHxyNIBGzMxssuvRLu6+QQaaPBdFCG9Nm/9NPDQ==
+"@txo-peer-dep/redux-saga@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@txo-peer-dep/redux-saga/-/redux-saga-1.0.2.tgz#8a7241f44f79d131d2c4bfd19563402b4f41ddd8"
+  integrity sha512-5X4IYCCsacGFw/pyelho7SDWnHFL0A6uiEmpD9QfxO31Mj/ytFzznNrJ9Br4nV9M7p5L/WKpltAhfq794H8p9A==
   dependencies:
     "@txo/config-manager" "^3.1.0"
 
