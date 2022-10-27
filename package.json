@@ -37,7 +37,7 @@
   "peerDependencies": {
     "@txo-peer-dep/redux-saga": "^1.0.1",
     "@txo/log": "^2.0.1",
-    "@txo/service-react": "^5.0.1",
+    "@txo/service-react": "^5.0.5",
     "redux-saga": "^1.2.1"
   },
   "devDependencies": {
