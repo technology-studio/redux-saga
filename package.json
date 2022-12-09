@@ -38,7 +38,7 @@
     "@txo-peer-dep/redux-saga": "^1.0.2",
     "@txo/log": "^2.0.1",
     "@txo/service-react": "^5.0.9",
-    "redux-saga": "^1.2.1"
+    "redux-saga": "^1.2.2"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
@@ -70,7 +70,7 @@
     "lint-staged": "^13.1.0",
     "react": "^18.2.0",
     "react-redux": "^8.0.5",
-    "redux-saga": "^1.2.1",
+    "redux-saga": "^1.2.2",
     "rimraf": "^3.0.2",
     "semantic-release": "^19.0.5",
     "semantic-release-slack-bot": "^3.5.3",
