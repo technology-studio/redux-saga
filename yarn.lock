@@ -1409,19 +1409,28 @@
     constant-case "^3.0.4"
     redux "^4.2.0"
 
+"@txo/redux@^4.0.11":
+  version "4.0.11"
+  resolved "https://registry.yarnpkg.com/@txo/redux/-/redux-4.0.11.tgz#c6169cc12eeb8b20db80c73b883b141b7c45bf78"
+  integrity sha512-61xq66VW6EfEPVG+ySYi+2J2GiwbbICrrfc2uAJp0ZqqBcfsaS58B95iN/8TmzWjZBvUzijl6A2UO2CMm8nZpA==
+  dependencies:
+    "@txo/functional" "^4.5.2"
+    constant-case "^3.0.4"
+    redux "^4.2.1"
+
 "@txo/service-prop@^2.2.2":
   version "2.2.2"
   resolved "https://registry.yarnpkg.com/@txo/service-prop/-/service-prop-2.2.2.tgz#42dfd1088f662c92583b3521b45f29dd53b476ce"
   integrity sha512-E2RNlFgrLX4A5/ZDlvOABZPtNvjxWY4XG0SKHZrQ1UUWmC0QGZINQlq1+oKkRb4SZwgNBqyhKRKozO7VuurvwQ==
 
-"@txo/service-react@^5.0.9":
-  version "5.0.9"
-  resolved "https://registry.yarnpkg.com/@txo/service-react/-/service-react-5.0.9.tgz#9add807b38b068130cdac490f3c66e3902952d38"
-  integrity sha512-XAzXk0Ysh4JZTGlbaClJxDfj8Scowj/ryPADV5zjgL3bRMhG2sdi8zdnfRveesaaNbfssWv2OzHhsJiwkUqsFg==
+"@txo/service-react@^5.0.10":
+  version "5.0.10"
+  resolved "https://registry.yarnpkg.com/@txo/service-react/-/service-react-5.0.10.tgz#f71d4ac97d2f1e738f2dbedbccd53fbc93ece786"
+  integrity sha512-GVZ6ubNvQVymCJ3rPkEAooZRtW7mZ9GDpiS/GxoKYUtbln0O9aazKDGOAiQb5Z1qg5QbLlv2m9diSe2ncHRSXA==
   dependencies:
     "@txo/context-redux" "^3.0.5"
     "@txo/log" "^2.0.1"
-    "@txo/redux" "^4.0.10"
+    "@txo/redux" "^4.0.11"
     "@txo/service-prop" "^2.2.2"
     lodash.get "^4.4.2"
 
@@ -6803,6 +6812,13 @@ redux@^4.0.4, redux@^4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/redux/-/redux-4.2.0.tgz#46f10d6e29b6666df758780437651eeb2b969f13"
   integrity sha512-oSBmcKKIuIR4ME29/AeNUnl5L+hvBq7OaJWzaptTQJAntaPvxIJqfnjbaEiCzzaIz+XmVILfqAM3Ob0aXLPfjA==
+  dependencies:
+    "@babel/runtime" "^7.9.2"
+
+redux@^4.2.1:
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/redux/-/redux-4.2.1.tgz#c08f4306826c49b5e9dc901dee0452ea8fce6197"
+  integrity sha512-LAUYz4lc+Do8/g7aeRa8JkyDErK6ekstQaqWQrNRW//MY1TvCEpMtpTWvlQ+FPbWCx+Xixu/6SHt5N0HR+SB4w==
   dependencies:
     "@babel/runtime" "^7.9.2"
 
