@@ -46,7 +46,7 @@ export const takeLatestByContext = (
     const action: ContextServiceAction = yield take(patternOrChannel)
     const context = action.context ?? DEFAULT_CONTEXT
     const lastTask = lastTaskContextMap[context]
-    if (lastTask) {
+    if (lastTask != null) {
       yield cancel(lastTask) // cancel is no-op if the task has already terminated
       log.debug(`cancelled: ${context}`)
     }
