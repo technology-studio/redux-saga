@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/technology-studio/redux-saga/compare/v1.0.4...v1.0.5) (2023-03-17)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo/service-react to ^5.0.14 ([68bd01d](https://github.com/technology-studio/redux-saga/commit/68bd01de5a7f6d873b70dfbb9dd3caaeb30ee5ee))
+
 ## [1.0.4](https://github.com/technology-studio/redux-saga/compare/v1.0.3...v1.0.4) (2023-03-17)
 
 
