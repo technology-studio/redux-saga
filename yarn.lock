@@ -1431,12 +1431,13 @@
   resolved "https://registry.yarnpkg.com/@txo/service-prop/-/service-prop-2.2.2.tgz#42dfd1088f662c92583b3521b45f29dd53b476ce"
   integrity sha512-E2RNlFgrLX4A5/ZDlvOABZPtNvjxWY4XG0SKHZrQ1UUWmC0QGZINQlq1+oKkRb4SZwgNBqyhKRKozO7VuurvwQ==
 
-"@txo/service-react@^5.0.13":
-  version "5.0.13"
-  resolved "https://registry.yarnpkg.com/@txo/service-react/-/service-react-5.0.13.tgz#64a79aaaf3fa67f47b4bbd60d9653ffdb9885bdc"
-  integrity sha512-x0decG3qpYdmRHrFUS4AMVqKaMM1SYv5DHl9RMRie0NwBFZnHHR6FO7ET0m/soASLOM9SmmR4tNDAM3Ay/cJMA==
+"@txo/service-react@^5.0.14":
+  version "5.0.14"
+  resolved "https://registry.yarnpkg.com/@txo/service-react/-/service-react-5.0.14.tgz#d770aecb71ce1a1ae604db3675c8def705cf107d"
+  integrity sha512-r/Lgq5J5PYcvNwzvso8tsuYEr+eOrtQQdX5U68oiiPFZn70qHUDHEmn6FjEZcRoruV7sF10Who4sFdAEVl+PjQ==
   dependencies:
     "@txo/context-redux" "^3.0.8"
+    "@txo/functional" "^4.6.0"
     "@txo/log" "^2.0.1"
     "@txo/redux" "^4.0.12"
     "@txo/service-prop" "^2.2.2"
