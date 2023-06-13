@@ -1511,10 +1511,10 @@
   resolved "https://registry.yarnpkg.com/@txo/service-prop/-/service-prop-2.2.2.tgz#42dfd1088f662c92583b3521b45f29dd53b476ce"
   integrity sha512-E2RNlFgrLX4A5/ZDlvOABZPtNvjxWY4XG0SKHZrQ1UUWmC0QGZINQlq1+oKkRb4SZwgNBqyhKRKozO7VuurvwQ==
 
-"@txo/service-react@^5.0.15":
-  version "5.0.15"
-  resolved "https://registry.yarnpkg.com/@txo/service-react/-/service-react-5.0.15.tgz#e8b2cc8adad8336039df834cad4c6d5c815fc684"
-  integrity sha512-GqtNuFy64tB1PnHtQ1CmOz0/28oK1TJtP3QYJ1Z6hHjlwxscYMEZwGOnfnAvnRypPRQIoYVL0x8KaDNvGRvhUA==
+"@txo/service-react@^5.0.16":
+  version "5.0.16"
+  resolved "https://registry.yarnpkg.com/@txo/service-react/-/service-react-5.0.16.tgz#68040ade45fa1a437bac668667b31050f69d977e"
+  integrity sha512-7vh+lCIZH9mmIxiG75SZdCYDvwKr7pB5N6UGCjeyCqGwzUDiH5hwZyuyka44PJwZe1UqJe07e2NJF722CG3csg==
   dependencies:
     "@txo/context-redux" "^3.0.8"
     "@txo/functional" "^4.6.0"
