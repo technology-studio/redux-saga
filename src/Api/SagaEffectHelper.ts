@@ -5,8 +5,7 @@
 **/
 
 import type {
-  ForkEffect,
-  SagaReturnType,
+  ForkEffect, SagaReturnType,
 } from 'redux-saga/effects'
 import {
   call,
@@ -54,18 +53,16 @@ export const takeLatestByContext = (
   }
 })
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-export const errorSafeFork = <Fn extends (...args: any[]) => any>(
+export const errorSafeFork = <Fn extends (...args: unknown[]) => unknown>(
   fn: Fn,
   ...args: Parameters<Fn>
 ): ForkEffect<SagaReturnType<Fn>> => {
-  function * errorSafeSaga (...args: Parameters<Fn>): SagaIterator<void> {
+  function * errorSafeSaga (...args: Parameters<Fn>): SagaIterator<SagaReturnType<Fn> | undefined> {
     try {
-      return yield call(fn, ...args)
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    } catch (error: any) {
-      configManager.config.onError(error)
+      return (yield call(fn, ...args)) as SagaReturnType<Fn>
+    } catch (error) {
+      configManager.config.onError(error as Error)
     }
   }
-  return fork(errorSafeSaga, ...args)
+  return fork(errorSafeSaga as Fn, ...args)
 }
