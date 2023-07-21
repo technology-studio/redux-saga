@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/technology-studio/redux-saga/compare/v1.0.11...v1.0.12) (2023-07-21)
+
+
+### Bug fixes
+
+* use any for arguments of function passed into `errorSafeFork` ([#284](https://github.com/technology-studio/redux-saga/issues/284)) ([dcb05ce](https://github.com/technology-studio/redux-saga/commit/dcb05ce121de335e2fde6d93363a315a996e5e63))
+
 ## [1.0.11](https://github.com/technology-studio/redux-saga/compare/v1.0.10...v1.0.11) (2023-07-21)
 
 
