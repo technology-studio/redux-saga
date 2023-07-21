@@ -53,7 +53,8 @@ export const takeLatestByContext = (
   }
 })
 
-export const errorSafeFork = <Fn extends (...args: unknown[]) => unknown>(
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+export const errorSafeFork = <Fn extends (...args: any[]) => unknown>(
   fn: Fn,
   ...args: Parameters<Fn>
 ): ForkEffect<SagaReturnType<Fn>> => {
