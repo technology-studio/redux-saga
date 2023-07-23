@@ -52,7 +52,7 @@
     "@txo-peer-dep/redux-saga": "^1.0.2",
     "@txo/log": "^2.0.8",
     "@txo/log-console": "^3.0.0",
-    "@txo/service-prop": "^2.2.7",
+    "@txo/service-prop": "^2.2.8",
     "@txo/service-react": "^5.0.27",
     "@types/jest": "^29.5.3",
     "@typescript-eslint/eslint-plugin": "^6.1.0",
