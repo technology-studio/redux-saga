@@ -1,3 +1,10 @@
+## [1.0.20](https://github.com/technology-studio/redux-saga/compare/v1.0.19...v1.0.20) (2023-07-24)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo/log to ^2.0.10 ([5065b00](https://github.com/technology-studio/redux-saga/commit/5065b00d5fcf66d6c43b596e26dbaddade6512ec))
+
 ## [1.0.19](https://github.com/technology-studio/redux-saga/compare/v1.0.18...v1.0.19) (2023-07-23)
 
 
