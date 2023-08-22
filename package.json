@@ -54,7 +54,7 @@
     "@txo/log-console": "^3.0.0",
     "@txo/service-prop": "^2.2.12",
     "@txo/service-react": "^5.0.46",
-    "@types/jest": "^29.5.3",
+    "@types/jest": "^29.5.4",
     "@typescript-eslint/eslint-plugin": "^6.4.1",
     "@typescript-eslint/parser": "^6.4.1",
     "commitizen": "^4.3.0",
