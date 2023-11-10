@@ -40,7 +40,7 @@
   "peerDependencies": {
     "@txo-peer-dep/redux-saga": "^1.0.2",
     "@txo/log": "^2.0.13",
-    "@txo/service-react": "^5.0.50",
+    "@txo/service-react": "^5.1.0",
     "redux-saga": "^1.2.3"
   },
   "devDependencies": {
@@ -51,7 +51,7 @@
     "@txo/log-console": "^3.0.0",
     "@txo/semantic-release": "^1.0.2",
     "@txo/service-prop": "^2.2.14",
-    "@txo/service-react": "^5.0.50",
+    "@txo/service-react": "^5.1.0",
     "@types/jest": "^29.5.8",
     "concurrently": "^8.2.2",
     "eslint-config-txo-typescript": "^4.0.4",
