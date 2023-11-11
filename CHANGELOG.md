@@ -1,3 +1,10 @@
+## [1.0.33](https://github.com/technology-studio/redux-saga/compare/v1.0.32...v1.0.33) (2023-11-11)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo-peer-dep/redux-saga to ^1.0.3 ([23ddc23](https://github.com/technology-studio/redux-saga/commit/23ddc23a526dc64d38dee54224c604745fc10013))
+
 ## [1.0.32](https://github.com/technology-studio/redux-saga/compare/v1.0.31...v1.0.32) (2023-11-11)
 
 
