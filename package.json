@@ -38,14 +38,14 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "@txo-peer-dep/redux-saga": "^1.0.2",
+    "@txo-peer-dep/redux-saga": "^1.0.3",
     "@txo/log": "^2.0.13",
     "@txo/service-react": "^5.1.0",
     "redux-saga": "^1.2.3"
   },
   "devDependencies": {
     "@txo-peer-dep/log": "^4.0.3",
-    "@txo-peer-dep/redux-saga": "^1.0.2",
+    "@txo-peer-dep/redux-saga": "^1.0.3",
     "@txo/commitlint": "^1.0.5",
     "@txo/log": "^2.0.13",
     "@txo/log-console": "^3.0.0",
