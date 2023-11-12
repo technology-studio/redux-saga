@@ -1516,21 +1516,13 @@
   resolved "https://registry.yarnpkg.com/@txo/config-manager/-/config-manager-3.2.0.tgz#d6bf817d0b8fa2eece61f79fc99eedf2516d68b1"
   integrity sha512-P4t09H/Q6AHoyps0jBy5tSp/HruQteyUeoxr758D2entD+rd8f0XXAdcrCCEIBeihlNAkv4MVj/n8bJulw5CLg==
 
-"@txo/context-redux@^3.0.32":
+"@txo/context-redux@^3.0.33":
   version "3.0.33"
   resolved "https://registry.yarnpkg.com/@txo/context-redux/-/context-redux-3.0.33.tgz#79f17f9f12d5795037ea9b39533f4dddff1e098a"
   integrity sha512-Wl8yyAWQVjqyPqnpMMobczTMajvFeN3/aow+HYe+Otk/dlwsdzK/KC3sQ1eXekwD7PWzwyUfyqvgIiqv4JYyUA==
   dependencies:
     "@txo/functional" "^4.6.17"
     "@txo/redux" "^4.0.29"
-
-"@txo/functional@^4.6.15":
-  version "4.6.15"
-  resolved "https://registry.yarnpkg.com/@txo/functional/-/functional-4.6.15.tgz#f3e36be137396389140f26a695fd2b40fb3eface"
-  integrity sha512-wAcKjzmRKTShSJFG7qfXg8Rfw12W65I8METllqa8iqttUmEknwrogu4Iw30LmTOH0czPkXazkxGsct6QcPPlEg==
-  dependencies:
-    "@txo/log" "^2.0.13"
-    utility-types "^3.10.0"
 
 "@txo/functional@^4.6.17":
   version "4.6.17"
@@ -1545,24 +1537,10 @@
   resolved "https://registry.yarnpkg.com/@txo/log-console/-/log-console-3.0.0.tgz#56506a8c6afea9109301ff96520c43815814022d"
   integrity sha512-Dl7dnPMUXRr1JSBysUmzT9/RjMm9FWJdtZ9CXVnh9K4qwpT4fnjDV+GWiHHWAqob47XcE7N98M8rShGmpsukqg==
 
-"@txo/log@^2.0.13":
-  version "2.0.13"
-  resolved "https://registry.yarnpkg.com/@txo/log/-/log-2.0.13.tgz#663100f59df18f4ddec9d85f62a20ec4b5e24b54"
-  integrity sha512-fDUAJ5n+bC+/xqHFpM4Ua4nuQjWcRLTSksLR5mLXZoUlH787SUzFkpUvjFJeiGKXOqUKt35ImInLZb0oQ6yHhg==
-
 "@txo/log@^2.0.14":
   version "2.0.14"
   resolved "https://registry.yarnpkg.com/@txo/log/-/log-2.0.14.tgz#27be76d85d724c2391228658b43018fa7a1b8f78"
   integrity sha512-ptJYpsGPkJFw2FUmpTstU1gaEea1uVXB/0r5jC1AkvoNe/ozeCos91FnIjxp0eFzu7SgV9OnbAH7hCcGxhVcgQ==
-
-"@txo/redux@^4.0.27":
-  version "4.0.27"
-  resolved "https://registry.yarnpkg.com/@txo/redux/-/redux-4.0.27.tgz#75f4997e7febe48346fadf7fa8122f828ef1faf5"
-  integrity sha512-DV0LwqoECkKLjGlDOZ3AyYM1vhoz7vxfX2FAdSVShxNlX09by1hdg06Wfzj94/Q5ywf2P+REGfsZsgep4lBRkg==
-  dependencies:
-    "@txo/functional" "^4.6.15"
-    constant-case "^3.0.4"
-    redux "^4.2.1"
 
 "@txo/redux@^4.0.29":
   version "4.0.29"
@@ -1583,23 +1561,23 @@
     semantic-release "^22.0.7"
     semantic-release-slack-bot "^4.0.2"
 
-"@txo/service-prop@^2.2.15", "@txo/service-prop@^2.2.16":
+"@txo/service-prop@^2.2.16":
   version "2.2.16"
   resolved "https://registry.yarnpkg.com/@txo/service-prop/-/service-prop-2.2.16.tgz#e18264bfd19583faf717f2425f92259f75ee7576"
   integrity sha512-51R0uGJvp3yttxQ43S739x8TNL0JB4MxmaRHv3IpXgXS5DFsyKlJH8riOuQbH8Ly547ib85Abbu4BS6SmSp5ag==
   dependencies:
     "@txo/functional" "^4.6.17"
 
-"@txo/service-react@^5.1.4":
-  version "5.1.4"
-  resolved "https://registry.yarnpkg.com/@txo/service-react/-/service-react-5.1.4.tgz#99c67d45e10027e8a6031220d41220272b0ff6ad"
-  integrity sha512-QJDCV6qW5MDzEoQbXejdJDTApBQ/rcJ2YdJIvWN1sWx3xLYISoMJ0PHGrEuzTBbWtSDfQ09AR2oIEQf4w7SbMQ==
+"@txo/service-react@^5.1.7":
+  version "5.1.7"
+  resolved "https://registry.yarnpkg.com/@txo/service-react/-/service-react-5.1.7.tgz#05704077e4c76eedfbc13046a827cc3dcd96267b"
+  integrity sha512-LefEAGQHceY3nGVyRV9s3dvAMQ/YXb5dBR94eWSTFU7SaISV/Aiur8S29O7epri42MfjiTPGAtlnJfbhtcxVYQ==
   dependencies:
-    "@txo/context-redux" "^3.0.32"
+    "@txo/context-redux" "^3.0.33"
     "@txo/functional" "^4.6.17"
-    "@txo/log" "^2.0.13"
-    "@txo/redux" "^4.0.27"
-    "@txo/service-prop" "^2.2.15"
+    "@txo/log" "^2.0.14"
+    "@txo/redux" "^4.0.29"
+    "@txo/service-prop" "^2.2.16"
     lodash.get "^4.4.2"
 
 "@types/babel__core@^7.1.14":
