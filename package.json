@@ -53,7 +53,7 @@
     "@txo/service-prop": "^2.2.16",
     "@txo/service-react": "^5.1.7",
     "@txo/tsconfig": "^1.1.1",
-    "@types/jest": "^29.5.8",
+    "@types/jest": "^29.5.9",
     "concurrently": "^8.2.2",
     "eslint-config-txo-typescript": "^4.0.10",
     "husky": "^8.0.3",
