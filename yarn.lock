@@ -1576,10 +1576,10 @@
   dependencies:
     "@txo/functional" "^4.6.17"
 
-"@txo/service-react@^5.1.9":
-  version "5.1.9"
-  resolved "https://registry.yarnpkg.com/@txo/service-react/-/service-react-5.1.9.tgz#37955c36f4fdb2aa049357ec19283ecef5f5dcbe"
-  integrity sha512-Zs7da4d1SEq7dkkbAsun7ZDXq/7PT3D4YjWITSzE0eqccCDGPm7c2zMmbOtmTB36cpaIPwWic/WjNtmNz4pFoA==
+"@txo/service-react@^5.1.10":
+  version "5.1.10"
+  resolved "https://registry.yarnpkg.com/@txo/service-react/-/service-react-5.1.10.tgz#9f174f6efc0523c05deb0b83976eb0f81697a3fb"
+  integrity sha512-bXCvxxCvexuyHk8zklWoZ+zNc1SVTTO/QXzOJJesi6u8GZcLZxwo3Pe0rQMbOSpvpT/R5OekSy8opFqifnOOkw==
   dependencies:
     "@txo/context-redux" "^3.0.35"
     "@txo/functional" "^4.6.17"
