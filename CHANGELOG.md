@@ -1,3 +1,31 @@
+## [1.0.40](https://github.com/technology-studio/redux-saga/compare/v1.0.39...v1.0.40) (2024-01-02)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo/service-react to ^5.1.10 ([f41449e](https://github.com/technology-studio/redux-saga/commit/f41449ea7f24e13a181c78cdda30e247c6e3cd81))
+
+## [1.0.39](https://github.com/technology-studio/redux-saga/compare/v1.0.38...v1.0.39) (2024-01-02)
+
+
+### Bug fixes
+
+* **deps:** update dependency redux-saga to ^1.3.0 ([384f186](https://github.com/technology-studio/redux-saga/commit/384f1860fe504b19370ef6bfefae70ffa6a299ec))
+
+## [1.0.38](https://github.com/technology-studio/redux-saga/compare/v1.0.37...v1.0.38) (2024-01-01)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo/service-react to ^5.1.9 ([f2b28d4](https://github.com/technology-studio/redux-saga/commit/f2b28d4cc5cfdf0ecbaa320737b4dd5171f1d8aa))
+
+## [1.0.37](https://github.com/technology-studio/redux-saga/compare/v1.0.36...v1.0.37) (2023-12-05)
+
+
+### Bug fixes
+
+* **deps:** update dependency @txo/service-react to ^5.1.8 ([b318d8c](https://github.com/technology-studio/redux-saga/commit/b318d8c814893255d02dd7e2a3fb20de844cb5a4))
+
 ## [1.0.36](https://github.com/technology-studio/redux-saga/compare/v1.0.35...v1.0.36) (2023-11-12)
 
 
