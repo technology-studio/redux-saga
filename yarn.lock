@@ -1565,10 +1565,10 @@
   dependencies:
     "@txo/functional" "^4.6.17"
 
-"@txo/service-react@^5.1.13":
-  version "5.1.13"
-  resolved "https://registry.yarnpkg.com/@txo/service-react/-/service-react-5.1.13.tgz#3ec618ed73a638ccdc42747d30c3a14b32d8143c"
-  integrity sha512-AciwxZmoXzK4HH7k0vya9f5S9IfXw4VqRiLPRReiBH1cbR14gFZticLRsCJi0457YPkUFXXBFzzD61/5ncui4Q==
+"@txo/service-react@^5.1.14":
+  version "5.1.14"
+  resolved "https://registry.yarnpkg.com/@txo/service-react/-/service-react-5.1.14.tgz#2d18eab3fd6e9562f0605b966a337ded405f2180"
+  integrity sha512-YAeD1Ko0pm+6ol1vzcqRY7d3KAvrzRc+HOl+P3lLzVjT8WVNtlPi138x6f2hWfZrpBzS4mT9pk06q7/pSYU3Lw==
   dependencies:
     "@txo/context-redux" "^3.0.35"
     "@txo/functional" "^4.6.17"
