@@ -39,7 +39,7 @@
   "dependencies": {},
   "peerDependencies": {
     "@txo-peer-dep/redux-saga": "^1.0.3",
-    "@txo/log": "^2.0.14",
+    "@txo/log": "^2.0.16",
     "@txo/service-react": "^5.1.14",
     "redux-saga": "^1.3.0"
   },
@@ -47,7 +47,7 @@
     "@txo-peer-dep/log": "^4.0.4",
     "@txo-peer-dep/redux-saga": "^1.0.3",
     "@txo/commitlint": "^1.0.14",
-    "@txo/log": "^2.0.14",
+    "@txo/log": "^2.0.16",
     "@txo/log-console": "^3.0.0",
     "@txo/semantic-release": "^1.0.8",
     "@txo/service-prop": "^2.2.16",
