@@ -1407,10 +1407,10 @@
   dependencies:
     "@txo/functional" "^4.6.19"
 
-"@txo/service-react@^5.1.20":
-  version "5.1.20"
-  resolved "https://registry.yarnpkg.com/@txo/service-react/-/service-react-5.1.20.tgz#cd2a72f8f9c06131d6f0b525172c06f5f0557dc5"
-  integrity sha512-Ulk/jkQi6LXz+cHduWYqlFWvhtev3ZatVY9r82S6HrQYG9GdDIgPNzfnc1Bhgkda/9GjDwEIKwcIlyHWOhyRuQ==
+"@txo/service-react@^5.1.21":
+  version "5.1.21"
+  resolved "https://registry.yarnpkg.com/@txo/service-react/-/service-react-5.1.21.tgz#1af35e83683ef1578806b7584a9bfb581da2d7c2"
+  integrity sha512-2IzyxIhuiGeuqaR1ToaCtTaEprl+RasaZwP3Nzbch31+3k1SZ8vrNBi4JSrdgx5IPazdmJumAuLa9lfwXm3mVg==
   dependencies:
     "@txo/context-redux" "^3.0.38"
     "@txo/functional" "^4.6.19"
