@@ -51,7 +51,7 @@
     "@txo/commitlint": "^1.0.20",
     "@txo/log": "^2.0.16",
     "@txo/log-console": "^3.0.0",
-    "@txo/semantic-release": "^2.0.9",
+    "@txo/semantic-release": "^2.0.10",
     "@txo/service-prop": "^2.2.20",
     "@txo/service-react": "^5.1.22",
     "@txo/tsconfig": "^1.1.1",
