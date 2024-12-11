@@ -1,0 +1,8 @@
+[
+  "@typescript-eslint/no-magic-numbers",
+  "eslint-comments/require-description",
+  "@typescript-eslint/no-unnecessary-condition",
+  "@typescript-eslint/prefer-destructuring",
+  "@stylistic/space-before-function-paren",
+  "@typescript-eslint/no-unsafe-type-assertion"
+]
