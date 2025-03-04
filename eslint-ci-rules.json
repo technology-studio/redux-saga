@@ -1,6 +1,6 @@
 [
-  "@typescript-eslint/no-magic-numbers",
   "eslint-comments/require-description",
+  "@stylistic/generator-star-spacing",
   "@typescript-eslint/no-unnecessary-condition",
   "@typescript-eslint/prefer-destructuring",
   "@stylistic/space-before-function-paren",
