@@ -1,3 +1,20 @@
+## [1.0.48](https://github.com/technology-studio/redux-saga/compare/v1.0.47...v1.0.48) (2025-10-24)
+
+
+### CI
+
+* add lint command for CI ([#562](https://github.com/technology-studio/redux-saga/issues/562)) ([fbecd3d](https://github.com/technology-studio/redux-saga/commit/fbecd3d7fce9c2dead74c384fee737ddb05b2313))
+* add pr.yml permissions ([#810](https://github.com/technology-studio/redux-saga/issues/810)) ([ba42401](https://github.com/technology-studio/redux-saga/commit/ba42401a49112cb0d23a9f95e88a6f0df48802d0))
+* add synchronize to PR workflow ([#590](https://github.com/technology-studio/redux-saga/issues/590)) ([385e043](https://github.com/technology-studio/redux-saga/commit/385e043dbde1d912295f584062183fba9574b9eb))
+* rename workflows ([#570](https://github.com/technology-studio/redux-saga/issues/570)) ([fa4c1e6](https://github.com/technology-studio/redux-saga/commit/fa4c1e651f8379e211cd73d9b368fc13ef8dce71))
+* update pr and release workflows ([#587](https://github.com/technology-studio/redux-saga/issues/587)) ([1b6adaf](https://github.com/technology-studio/redux-saga/commit/1b6adafc10c4e224ce6613b6f7299ff464845d17))
+* update URL for code-quality ([#567](https://github.com/technology-studio/redux-saga/issues/567)) ([3a11c99](https://github.com/technology-studio/redux-saga/commit/3a11c990a3b71679e7c64ad03e7064549cf5fa44))
+
+
+### Bug fixes
+
+* **deps:** update dependency redux-saga to ^1.4.2 ([#828](https://github.com/technology-studio/redux-saga/issues/828)) ([4232262](https://github.com/technology-studio/redux-saga/commit/42322627cea73aa527a89d6878c986b5cd96c0bd))
+
 ## [1.0.47](https://github.com/technology-studio/redux-saga/compare/v1.0.46...v1.0.47) (2024-05-02)
 
 
