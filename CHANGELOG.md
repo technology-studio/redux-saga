@@ -1,3 +1,9 @@
+## [1.0.49](https://github.com/technology-studio/redux-saga/compare/v1.0.48...v1.0.49) (2026-06-08)
+
+### Bug fixes
+
+* **deps:** update dependency redux-saga to ^1.4.3 ([#883](https://github.com/technology-studio/redux-saga/issues/883)) ([c9ab9a9](https://github.com/technology-studio/redux-saga/commit/c9ab9a9dfa26dcc9f1e0b4147535b1fff86826db))
+
 ## [1.0.48](https://github.com/technology-studio/redux-saga/compare/v1.0.47...v1.0.48) (2025-10-24)
 
 
